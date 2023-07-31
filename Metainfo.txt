@@ -1,4 +1,4 @@
-Name of Quantlet: 'Metcalfe's Law and Crypto'
+Name of Quantlet: 'Metcalfes-Law-and-Cryptocurrencies'
 
 Published in: '...'
 
