@@ -1,0 +1,9 @@
+Name of Quantlet: 'Metcalfe's Law and Crypto'
+
+Published in: '...'
+
+Description: 'We use Metcalfe's Law to estimate an "intrinsic value" for cryptocurrencies and evaluate times where different cryptocurrencies are over- or undervalued.'
+
+Keywords: 'cryptocurrency, ethereum, Metcalfe, network, panel, bitcoin, cardano'
+
+Author: 'Patrick Woitschig'
